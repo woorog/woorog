@@ -2,7 +2,7 @@
 
 Hello I am a beginner developer
 
-I'm posting it mainly to organize what I've been studying.
+노현우입니다
 
 Skills
 Platporms/Languages
