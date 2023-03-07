@@ -8,5 +8,5 @@ Skills
 Platporms/Languages
 
 java,android 
-html,css,php,JavaScript,Kotlin
+html,css,php,JavaScript,Kotlin,flutter
 
