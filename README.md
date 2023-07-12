@@ -7,6 +7,8 @@ Hello I am a beginner developer
 Skills
 Platporms/Languages
 
-java,android 
-html,css,php,JavaScript,Kotlin,flutter
+java,android,Kotlin,flutter
+html,css,php,JavaScript,react,react-native, 
+ios
+
 
