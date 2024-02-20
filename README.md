@@ -8,8 +8,8 @@ Skills
 
 Platporms/Languages
 
-java,android,Kotlin,flutter
-html,css,php,JavaScript,react,react-native, 
-ios
+python,c,java
+android,Kotlin,flutter
+html,css,php,JavaScript,react,react-native,ios
 
 
