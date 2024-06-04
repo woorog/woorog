@@ -34,4 +34,4 @@ beakjoon 플래티넘을 목표로 하루에 한문제씩 풀고 있습니다.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shgusdncjstk)](https://solved.ac/shgusdncjstk/)
 
 
-[2024-0089노현우kg.pdf](https://github.com/user-attachments/files/15543121/2024-0089.kg.pdf)
+![2024-0089 kg](https://github.com/woorog/woorog/assets/105340085/4a87afc6-6789-4297-842d-933995cc0118)
