@@ -12,7 +12,6 @@ python,c,java
 android,Kotlin,flutter
 html,css,php,JavaScript,react,react-native,ios
 
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=woorog&show_icons=true&theme=dark"
