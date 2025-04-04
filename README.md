@@ -56,21 +56,6 @@ api를 구현해 db 데이터를 가져와 재 배치하는 과정을 해 보았
 
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=woorog&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=woorog&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=woorog&show_icons=true" />
-</picture>
-
-
-
-
 beakjoon 플래티넘을 목표로 하루에 한문제씩 풀고 있습니다.
 
 
