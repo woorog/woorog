@@ -55,11 +55,6 @@ api를 구현해 db 데이터를 가져와 재 배치하는 과정을 해 보았
 
 
 
-
-beakjoon 플래티넘을 목표로 하루에 한문제씩 풀고 있습니다.
-
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shgusdncjstk)](https://solved.ac/shgusdncjstk/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woorog&layout=compact&theme=dracula)
 
 
