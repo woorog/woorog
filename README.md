@@ -54,6 +54,7 @@ api를 구현해 db 데이터를 가져와 재 배치하는 과정을 해 보았
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woorog&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woorog&layout=compact&theme=dracula)
 
