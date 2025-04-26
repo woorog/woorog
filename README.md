@@ -6,6 +6,7 @@ Hello I am a beginner developer
 
 Skills
 
+
 Platporms/Languages
 
 python,c,java
