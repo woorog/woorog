@@ -27,8 +27,6 @@ ONCORE는 동료들과 함께 실시간으로 소통하며 알고리즘을 학�
 
 
 
-
-
 KotlinSearchBook 
 [Repository Link](https://github.com/woorog/KotlinSearchBook)
 
