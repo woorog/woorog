@@ -35,8 +35,6 @@ KotlinSearchBook
 
 
 
-
-
 카페 앱 만들기
 [Repository Link](https://github.com/woorog/cafeapp)
 코틀린으로 구현한 카페 앱 입니다.
