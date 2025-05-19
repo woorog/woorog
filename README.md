@@ -16,9 +16,6 @@ html,css,php,JavaScript,react,react-native,ios
 
 지금까지 해 온 여러가지 프로젝트
 
-
-
-
 🎮 ONCORE 프로젝트
 [Repository Link](https://github.com/Acacian/ONCORE)
 
