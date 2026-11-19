@@ -39,11 +39,14 @@ api를 구현해 db 데이터를 가져와 재 배치하는 과정을 해 보았
 유니티로 만든 마작 게임
 https://github.com/MCRMasters/MCR-Masters-Unity
 유니티로 구현한 4인용 네트워크 게임입니다.
+
 개발 진행과정이 유트브에 있습니다.
 https://www.youtube.com/channel/UCqExWNHfP0TTghXeh46V2RQ
 
 
-
+플러터로 만든 광고차단 앱 입니다.
+https://github.com/woorog/viewer
+패키징하여 웹에서 배포중입니다
 
 
 
